@@ -52,7 +52,7 @@ void movimentaBispo (int num){
 
 int main () {
 
-    //variaveis parra calcular movimentos
+    //variaveis para executar movimentos
     int rainha = 8;
     int bispo = 5;
     int torre = 5;
